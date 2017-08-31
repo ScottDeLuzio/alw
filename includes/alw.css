@@ -1,0 +1,15 @@
+.alw-even{
+	background: #f1f1f1;
+	padding: 5px;
+	height: 50px;
+}
+.alw-odd{
+	background: #f9f9f9;
+	padding: 5px;
+	height: 50px;
+}
+.alw-container{
+	width:50%;
+	float:left;
+	display:block;
+}
